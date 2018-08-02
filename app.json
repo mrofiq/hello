@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "Hello",
+    "description": "Demo app built with Typescript",
+    "sdkVersion": "27.0.0",
+    "slug": "hello",
+    "version": "0.1.0",
+    "privacy": "unlisted",
+    "packagerOpts": {
+      "sourceExts": ["ts", "tsx"],
+      "transformer": "node_modules/react-native-typescript-transformer/index.js"
+    }
+  }
+}
