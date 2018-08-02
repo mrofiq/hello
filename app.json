@@ -2,7 +2,7 @@
   "expo": {
     "name": "Hello",
     "description": "Demo app built with Typescript",
-    "sdkVersion": "27.0.0",
+    "sdkVersion": "29.0.0",
     "slug": "hello",
     "version": "0.1.0",
     "privacy": "unlisted",
